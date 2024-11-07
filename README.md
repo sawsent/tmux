@@ -9,6 +9,6 @@ To get it working, you need to install tpm first on `~/.tmux/plugins/`. See [tpm
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-Then, inside a tmux session, use `<prefix> I` to install plugins!
+Then, inside a tmux session, source the config with `tmux source ~/.config/tmux/tmux.conf` and use `<prefix> I` to install plugins!
 
 Please see [tpm](https://github.com/tmux-plugins/tpm) for more details.
