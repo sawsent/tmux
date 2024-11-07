@@ -1,7 +1,7 @@
 # my tmux config
 To clone this config, run:
 ```sh
-git clone https://github.com/sawsent/tmux ~/.config/
+git clone https://github.com/sawsent/tmux ~/.config/tmux
 ```
 
 To get it working, you need to install tpm first on `~/.tmux/plugins/`. See [tpm](https://github.com/tmux-plugins/tpm) or run:
