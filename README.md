@@ -1,7 +1,10 @@
 # my tmux config
-To copy this config and get it working, you need to install tpm first on `~/.tmux/plugins/`, and install each plugin.
+To clone this config, run:
+```sh
+git clone https://github.com/sawsent/tmux ~/.config/
+```
 
-To do this, you can run, or see [tpm](https://github.com/tmux-plugins/tpm):
+To get it working, you need to install tpm first on `~/.tmux/plugins/`. See [tpm](https://github.com/tmux-plugins/tpm) or run:
 ```sh
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
